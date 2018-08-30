@@ -1,0 +1,1 @@
+A tiny and simple function in JQuery that prevets a Double Click in a form!!
