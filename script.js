@@ -1,7 +1,7 @@
 ﻿/**
 * Prevent Double Click
 *
-* Add a 1s delay de 1s to any form submit and prevent a double click to 
+* Add a 1s delay of 1s to any form submit and prevent a double click to 
 *send the form twice!!
 *
 *@author Davi Duarte <daviduartedf@gmail.com>
